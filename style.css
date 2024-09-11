@@ -1,0 +1,42 @@
+.title {
+
+    background-color: darkblue;
+    padding: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+
+}
+
+.introducao {
+
+    margin-top: 40px;
+    margin-left: 350px;
+
+}
+
+.caixa {
+    
+    flex-direction: row;
+    justify-content: center;
+    align-items: flex-end;
+    height: 300px;
+    margin-left: 460px;
+    margin-right: 540px;
+    border-style: solid;
+}
+
+.texto {
+    color: black;
+    margin-left: 100px;
+    
+}
+
+.imagem {
+
+    margin-top: 20px;
+    margin-bottom: 150px;
+    height: 100px;
+    margin-left: 25px;  
+
+
+}
